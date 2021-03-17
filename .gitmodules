@@ -1,0 +1,9 @@
+[submodule "ghost"]
+	path = ghost
+	url = ./ghost/
+[submodule "shell"]
+	path = shell
+	url = ./shell/
+[submodule "balloon"]
+	path = balloon
+	url = ./balloon/
