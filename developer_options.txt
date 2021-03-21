@@ -26,6 +26,7 @@ ghost/master/aya.log,nonar,noupdate
 ghost/master/ssp_shiori_log.txt,nonar,noupdate
 
 
+ghost/master/saori/.gitignore,nonar,noupdate
 ghost/master/saori/debeso.db,nonar,noupdate
 ghost/master/saori/lunar.txt,nonar,noupdate
 ghost/master/saori/Process.txt,nonar,noupdate
@@ -54,6 +55,7 @@ ghost/master/pseudoAI/userteach.ai,nonar,noupdate
 
 shell/.gitignore,nonar,noupdate
 shell/Entire bare/,nonar,noupdate
+shell/*/*.pna.png,nonar,noupdate
 shell/pna_swap_png.bat,nonar,noupdate
 shell/pna_link_maker.bat,nonar,noupdate
-
+shell/pna_link_maker_profile_var.bat,nonar,noupdate
