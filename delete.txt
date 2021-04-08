@@ -84,6 +84,7 @@ ghost/master/pic/
 ghost/master/data2/
 ghost/master/mydata/
 ghost/master/aya5/
+ghost/master/bakeup/
 ghost/master/data/BombGoldFlower/
 shell/home/
 shell/Ninni/
@@ -578,7 +579,6 @@ ghost/master/yaya_jp.dll
 ghost/master/yaya_jp.txt
 ghost/master/yaya_jp_variable.cfg
 ghost/master/yaya_shiori3.dic
-delete.txt
 ghost/master/data/Game/GoldenFlower/0.bmp
 ghost/master/data/Game/GoldenFlower/1.bmp
 ghost/master/data/Game/GoldenFlower/10.bmp

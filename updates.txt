@@ -1,4 +1,4 @@
-file,delete.txt509f544c4e66ad98cc2565745535535fsize=23577
+file,delete.txt9748ab4d056bf5a0a373ba7a3c274494size=23587
 file,ghost/master/.gitignorec8e2084b6cbcc9078ae1bd1282d188c7size=96
 file,ghost/master/aya.dll31c996c1b05a776e8ea9d768d72ac4a2size=285184
 file,ghost/master/aya.txt74f66666b149fa6be20174e78da7cde9size=4596
@@ -242,7 +242,6 @@ file,ghost/master/data/LearnJapanese/100_sentences_in_Japanese/7.mp308a959a5396
 file,ghost/master/data/LearnJapanese/100_sentences_in_Japanese/8.mp3642825b2880c0c5a33f704bbb3dcd151size=37761
 file,ghost/master/data/LearnJapanese/100_sentences_in_Japanese/9.mp3da86e4b4942483091c6200493523bb1asize=45825
 file,ghost/master/data/LearnJapanese/sonido/index.png061407a144d22a50d806047c681f58desize=272758
-file,ghost/master/data/LearnJapanese/sonido/readme.txt2fde9e19dff0ccda6b89c70af300eec6size=41
 file,ghost/master/data/LearnJapanese/sonido/¤¢.mp3ffbea48bf397cac62fff66b4d4c7cbcasize=60857
 file,ghost/master/data/LearnJapanese/sonido/¤¤.mp3b07fefa5e1f6ed35ad8877f4145cbdedsize=107042
 file,ghost/master/data/LearnJapanese/sonido/¤¦.mp3a2ee0b3e118b6f9c972e52e629f21ef7size=74128
