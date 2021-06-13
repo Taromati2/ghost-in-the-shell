@@ -21,6 +21,8 @@ ghost/master/var/,nonar,noupdate
 ghost/master/profile/,nonar,noupdate
 ghost/master/aya_variable.cfg,nonar,noupdate
 ghost/master/shiori_backup/,nonar,noupdate
+ghost/tama.exe
+ghost/tama.txt
 
 ghost/master/aya.log,nonar,noupdate
 ghost/master/ssp_shiori_log.txt,nonar,noupdate
